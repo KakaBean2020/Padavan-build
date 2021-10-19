@@ -12,7 +12,7 @@ on:
       modelname:
         description: 'model name'
         required: true
-        default: 'K2P-5.0'
+        default: 'K2P'
   release:
     types: [published]
   push:
